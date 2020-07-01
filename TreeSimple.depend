@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1589407972 source:d:\inpe\comp apl\gilberto\treesimple\main.cpp
+	<iostream>
+	"tree.hpp"
+	<cstdlib>
+
+1589407795 d:\inpe\comp apl\gilberto\treesimple\tree.hpp
+	<cstddef>
+	<vector>
+
